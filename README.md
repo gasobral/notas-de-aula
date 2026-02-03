@@ -1,8 +1,51 @@
-# Notas de aula sobre Ciência da Computação e Ciência dos Dados
+# Class notes on Computer Science and Data Science
 
-## Resumo
-Neste repositório provemos notas de aula sobre programação, estrutura
-de dados, técnicas de algoritmos (como guloso e programação dinâmica) e
-ciência dos dados em python. Apresentamos explicações desses tópicos
-usando notebooks e indicamos referências ou links com materiais
-complementares.
+## Summary
+This repository contains the class notes prepared during my time as a
+university professor and my experience in the technology field. The
+material covers fundamental topics in **programming**, **data
+structures**, **techniques of algorithms** (as greedy algorithms and
+dynamic programming) and **data science in Python**.
+
+Each class note contains the following:
+- Essential concepts and definitions;
+- Practical examples and exercises resolution;
+- Bibliographic references and complementary materials.
+
+The objective is to offer a concise and accessible teaching material,
+useful for students and professionals who want to review or deepen their
+understanding of key concepts in these fields (Computer Science and Data
+Science).
+
+---
+
+## Repository Structure
+Below is the organization of the repository files.
+
+```console
+.
+├── Data Science
+│   └── Regressão Linear
+│       ├── data
+│       ├── notebooks
+│       └── scripts
+├── LICENSE
+├── Programação Dinâmica
+└── README.md
+```
+
+## License
+This material is published under license [Creative Commons BY-NC-SA
+4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en),
+allowing use and adaptation for non-commercial purposes.
+
+## Contributions
+Suggestions, corrections and contributions are welcome! Open and *issue*
+or submit a *pull request* with you proposal.
+
+## Author
+**Gabriel Sobral**
+
+PhD in Computer Science and Data Scientist.
+I work with Python, data analysis and statistical modeling.
+[Linkedin](https://www.linkedin.com/in/gabriel-sobral-99870846/)
