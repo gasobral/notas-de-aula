@@ -1,3 +1,7 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/gasobral/notas-de-aula/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/gasobral/notas-de-aula/blob/main/README.pt-br.md)
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/gasobral/notas-de-aula/blob/main/README.ru.md)
+
 # Notas de aula sobre Ciência da Computação e Ciência dos Dados
 
 ## Resumo
