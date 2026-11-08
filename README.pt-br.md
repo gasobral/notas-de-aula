@@ -4,38 +4,49 @@
 
 # Notas de aula sobre Ciência da Computação e Ciência dos Dados
 
-## Resumo
-Este repositório reúne notas de aula elaboradas ao longo das minhas
-atividades como professor universitário e profissional da área de
-tecnologia. O material aborda tópicos fundamentais de **programação**,
+## Introdução
+Este repositório contém notas de aula sobre **programação em Python**,
 **estruturas de dados**, **técnicas de projeto de algoritmos** (como
-algoritmos gulosos e programação dinâmica) e **ciência de dados em
-Python**.
+algoritmos gulosos, programação dinâmica e outros) e **ciência de
+dados**. As notas de aula incluem:
 
-Cada conjunto de notas inclui:
-- Conceitos e definições essenciais;
-- Exemplos práticos e resolução de exercícios;
-- Referências bibliográficas e materiais complementares.
+- conceitos e definições;
+- exemplos práticos e resolução de exercícios;
+- referências bibliográficas e materiais complementares.
 
 O objetivo é oferecer um material didático conciso e acessível, útil
 para estudantes e profissionais que desejam revisar ou aprofundar
-conceitos-chave das áreas de ciência da computação e ciência dos dados.
+conceitos-chave de áreas da ciência da computação e ou da ciência dos
+dados.
 
 ---
 
 ## Estrutura do Repositório
-Abaixo você encontra como está organizado os arquivos desse repositório.
+Abaixo você encontra como está organizado os arquivos desse
+repositório.
 
 ```console
 .
+├── Computer Science
+│   └── Algorithms
+│       └── programacao_dinamica.ipynb
 ├── Data Science
-│   └── Regressão Linear
-│       ├── data
-│       ├── notebooks
-│       └── scripts
+│   └── Machine Learning
+│       └── Linear Regression
+│           ├── data
+│           │   ├── insurance.csv
+│           │   └── LungDisease.csv
+│           ├── notebooks
+│           │   ├── regression-pt-br.ipynb
+│           │   └── univariate_regression.ipynb
+│           └── scripts
+│               ├── regressao_multi_modelos.py
+│               ├── regressao_multi.py
+│               └── regressao.py
 ├── LICENSE
-├── Programação Dinâmica
-└── README.md
+├── README.md
+├── README.pt-br.md
+└── README.ru.md
 ```
 
 ## Licença

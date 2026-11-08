@@ -1,20 +1,18 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/gasobral/notas-de-aula/blob/main/README.md)
+l[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/gasobral/notas-de-aula/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/gasobral/notas-de-aula/blob/main/README.pt-br.md)
 [![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/gasobral/notas-de-aula/blob/main/README.ru.md)
 
 # Class notes on Computer Science and Data Science
 
-## Summary
-This repository contains the class notes prepared during my time as a
-university professor and my experience in the technology field. The
-material covers fundamental topics in **programming**, **data
-structures**, **techniques of algorithms** (as greedy algorithms and
-dynamic programming) and **data science in Python**.
+## Introduction
+This repository contains class notes about **programming in Python**,
+**data structures**, **techniques of algorithms** (as greedy
+algorithms, dynamic programming and others) and **data science in
+Python**. Each class note contains the following:
 
-Each class note contains the following:
-- Essential concepts and definitions;
-- Practical examples and exercises resolution;
-- Bibliographic references and complementary materials.
+- concepts and definitions;
+- practical examples and exercises resolution;
+- bibliographic references and complementary materials.
 
 The objective is to offer a concise and accessible teaching material,
 useful for students and professionals who want to review or deepen their
@@ -24,18 +22,30 @@ Science).
 ---
 
 ## Repository Structure
-Below is the organization of the repository files.
+Below is the organization of repository files.
 
 ```console
 .
+├── Computer Science
+│   └── Algorithms
+│       └── programacao_dinamica.ipynb
 ├── Data Science
-│   └── Regressão Linear
-│       ├── data
-│       ├── notebooks
-│       └── scripts
+│   └── Machine Learning
+│       └── Linear Regression
+│           ├── data
+│           │   ├── insurance.csv
+│           │   └── LungDisease.csv
+│           ├── notebooks
+│           │   ├── regression-pt-br.ipynb
+│           │   └── univariate_regression.ipynb
+│           └── scripts
+│               ├── regressao_multi_modelos.py
+│               ├── regressao_multi.py
+│               └── regressao.py
 ├── LICENSE
-├── Programação Dinâmica
-└── README.md
+├── README.md
+├── README.pt-br.md
+└── README.ru.md
 ```
 
 ## License
